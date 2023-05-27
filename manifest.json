@@ -1,0 +1,16 @@
+{
+  "name": "GitSeeker",
+  "version": "0.0.1",
+  "description": "GitSeeker aims to provide a convenient way for users to fetch and view GitHub user information directly from their browser.",
+  "manifest_version": 3,
+  "author": "UTKARSH SAH",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png",
+    "default_title": "GitSeeker"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": ["activeTab"]
+}
