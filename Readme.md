@@ -63,8 +63,3 @@ Software:
 
 The GitSeeker Chrome Extension project aims to provide a convenient way for users to fetch and view GitHub user information directly from their browser. By utilizing the GitHub API and integrating with the Chrome browser, the extension offers a streamlined experience for users to explore details about a specific GitHub user. The project employs a client-side approach using HTML, CSS, and JavaScript, ensuring compatibility across multiple platforms.
 
-**Screenshots of the project:**
-
-![PROJECT PIC](Git%20Seeker%20Chrome%20Extension%20b9650ec20f0a4eb29602f369d5d24831/Untitled.png)
-
-![Untitled](Git%20Seeker%20Chrome%20Extension%20b9650ec20f0a4eb29602f369d5d24831/Untitled%201.png)
