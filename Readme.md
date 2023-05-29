@@ -1,6 +1,5 @@
 # Git Seeker Chrome Extension
-
-[https://youtu.be/fXo8kgNqf9g](https://youtu.be/fXo8kgNqf9g)
+PROJECT WORKING VIDEO LINK🔗 [https://youtu.be/fXo8kgNqf9g](https://youtu.be/fXo8kgNqf9g)
 
 **Introduction**
 
