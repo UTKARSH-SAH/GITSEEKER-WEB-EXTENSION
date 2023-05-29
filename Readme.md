@@ -65,6 +65,6 @@ The GitSeeker Chrome Extension project aims to provide a convenient way for user
 
 **Screenshots of the project:**
 
-![Untitled](Git%20Seeker%20Chrome%20Extension%20b9650ec20f0a4eb29602f369d5d24831/Untitled.png)
+![PROJECT PIC](Git%20Seeker%20Chrome%20Extension%20b9650ec20f0a4eb29602f369d5d24831/Untitled.png)
 
 ![Untitled](Git%20Seeker%20Chrome%20Extension%20b9650ec20f0a4eb29602f369d5d24831/Untitled%201.png)
