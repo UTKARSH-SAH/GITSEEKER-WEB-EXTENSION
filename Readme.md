@@ -1,6 +1,8 @@
 # Git Seeker Chrome Extension
 PROJECT DEMO LINK🔗 [https://youtu.be/fXo8kgNqf9g](https://youtu.be/fXo8kgNqf9g)
+
 GitSeeker Chrome Web Store Link🔗 [https://chrome.google.com/webstore/detail/gitseeker/nmddmhimlhheijaedilficeggkpecpbn)
+
 **Introduction**
 
 The GitSeeker Chrome Extension project that aimed at providing a convenient way to fetch information related to a GitHub user. The extension allows users to input a GitHub username and utilizes the GitHub API to retrieve various details associated with the user.
