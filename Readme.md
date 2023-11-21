@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/UTKARSH-SAH/GitSeeker-Browser-Extension/image?font=KoHo&amp;language=1&amp;logo=https%3A%2F%2Fgithub.com%2FUTKARSH-SAH%2FGitSeeker-Browser-Extension%2Fblob%2Fmaster%2Flogo.png%3Fraw%3Dtrue&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">The GitSeeker Browser Extension aimed at providing a convenient way to fetch information related to a GitHub user. The extension allows users to input a GitHub username and utilizes the GitHub API to retrieve various details associated with the user. GitSeeker Chrome Web Store Link🔗 [https://chrome.google.com/webstore/detail/gitseeker/nmddmhimlhheijaedilficeggkpecpbn)</p>
+<p id="description">The GitSeeker Browser Extension aimed at providing a convenient way to fetch information related to a GitHub user. The extension allows users to input a GitHub username and utilizes the GitHub API to retrieve various details associated with the user. <br> GitSeeker Chrome Web Store Link🔗 [https://chrome.google.com/webstore/detail/gitseeker/nmddmhimlhheijaedilficeggkpecpbn)</p>
 
 <h2>🚀 Demo</h2>
 
