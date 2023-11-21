@@ -1,64 +1,45 @@
-# Git Seeker Chrome Extension
-PROJECT WORKING VIDEO LINK🔗 [https://youtu.be/fXo8kgNqf9g](https://youtu.be/fXo8kgNqf9g)
+<h1 align="center" id="title">GitSeeker Browser Extension</h1>
 
-**Introduction**
+<p align="center"><img src="https://socialify.git.ci/UTKARSH-SAH/GitSeeker-Browser-Extension/image?font=KoHo&amp;language=1&amp;logo=https%3A%2F%2Fgithub.com%2FUTKARSH-SAH%2FGitSeeker-Browser-Extension%2Fblob%2Fmaster%2Flogo.png%3Fraw%3Dtrue&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Light" alt="project-image"></p>
 
-The GitSeeker Chrome Extension project that aimed at providing a convenient way to fetch information related to a GitHub user. The extension allows users to input a GitHub username and utilizes the GitHub API to retrieve various details associated with the user.
+<p id="description">The GitSeeker Browser Extension aimed at providing a convenient way to fetch information related to a GitHub user. The extension allows users to input a GitHub username and utilizes the GitHub API to retrieve various details associated with the user. GitSeeker Chrome Web Store Link🔗 [https://chrome.google.com/webstore/detail/gitseeker/nmddmhimlhheijaedilficeggkpecpbn)</p>
 
-**Literature Study**
+<h2>🚀 Demo</h2>
 
-1. Why I choose this project?
+[https://youtu.be/fXo8kgNqf9g](https://youtu.be/fXo8kgNqf9g)
 
-I choose this project because it gave me the opportunity to learn project development in Frontend side and UI based project development.
+<h2>Project Screenshots:</h2>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/hidf6xrhOi81WaZonU9xVMlXJtFG4y1pZHg41T7rB740hTEKTs_CvLt28cAyPKZqdjrobj-YQ_RZIY_jfoUuwrT4qA=w640-h400-e365-rj-sc0x00ffffff" alt="project-screenshot" width="800" height="500/">
 
-Developing a Chrome extension involves working with web technologies such as HTML, CSS, and JavaScript, as well as integrating with APIs. Choosing this project may have been driven by your desire to learn or improve your skills in these areas.
+<img src="https://lh3.googleusercontent.com/Mvj61BWvSV_bQ8TiVmwrK_IHGEs_1QMf7EJR9_zLS9mwrWf5p0W0NL5ns-l-j8Arv6LM0wkuQgBUimn6cIIOMNIbaSQ=w640-h400-e365-rj-sc0x00ffffff" alt="project-screenshot" width="800" height="500/">
+</p>
 
-Building projects like the GitSeeker Chrome Extension can serve as a valuable addition to your portfolio, showcasing your skills and ability to develop practical applications. It can also contribute to your personal growth as a developer by allowing you to tackle real-world problems and gain hands-on experience.
+  
+  
+<h2>🧐 Features</h2>
 
-1. How is my project better than other projects?
+Here're some of the project's best features:
 
-My project is better than other projects as creating a Chrome extension that fetches GitHub user information, we saw an opportunity to streamline the process of retrieving relevant data. This project can make it more convenient and efficient for GitHub users to access information about other users without leaving their browser.
+*   👉 Instant User Lookup: Simply enter a GitHub username and GitSeeker will swiftly fetch all the juicy details right at your fingertips!
+*   👉 Comprehensive User Insights: Explore a user's repositories contributions followers and more presented in a visually stunning and user-friendly interface.
 
-**Methodology:**
+<h2>🛠️ Installation Steps:</h2>
 
-The GitSeeker Chrome Extension follows a client-side approach, where the extension is developed using HTML, CSS, and JavaScript. The extension interacts with the GitHub API to fetch user-related information. The following steps outline the methodology:
+  
+  
+<h2>💻 Built with</h2>
 
-1. User inputs a GitHub username in the extension's interface.
-2. The extension sends an API request to the GitHub API, requesting information related to the specified username.
-3. The API response is received and parsed to extract relevant details such as user's repositories, followers, following, etc.
-4. The extracted information is displayed in the extension's interface, providing a comprehensive overview of the GitHub user.
+Technologies used in the project:
 
-**Tools and Techiniques Required:**
+*   HTML
+*   CSS
+*   Javascript
+*   API call
+*   VS Code
+*   Git for version control
+*   Google Chrome browser for testing and running the extension
 
-Tools:
+<h2>🛡️ Summary:</h2>
 
-- VS Code editor
-- Google chrome browser
-
-Techniques:
-
-- HTML
-- CSS
-- JAVA SCRIPT
-- OBJECT & CLASSES
-- API CALL
-
-**Hardware and Software Required:**
-
-The GitSeeker Chrome Extension project requires the following hardware and software resources:
-
-Hardware:
-
-- Computer or laptop
-- Internet connection
-
-Software:
-
-- Text editor or integrated development environment (IDE) for coding (e.g., Visual Studio Code, Sublime Text)
-- Google Chrome browser for testing and running the extension
-- Git for version control (optional)
-
-**Summary:**
-
-The GitSeeker Chrome Extension project aims to provide a convenient way for users to fetch and view GitHub user information directly from their browser. By utilizing the GitHub API and integrating with the Chrome browser, the extension offers a streamlined experience for users to explore details about a specific GitHub user. The project employs a client-side approach using HTML, CSS, and JavaScript, ensuring compatibility across multiple platforms.
-
+GitSeeker provide a convenient way for users to fetch and view GitHub user information directly from their browser. By utilizing the GitHub API and integrating with the Chrome browser, the extension offers a streamlined experience for users to explore details about a specific GitHub user. The project employs a client-side approach using HTML, CSS, and JavaScript, ensuring compatibility across multiple platforms.
