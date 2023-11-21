@@ -11,9 +11,9 @@ body {
   background-color: var(--lm-bg);
   font-size: 14px;
   color: var(--lm-text);
-  width: 350px;
+  width: 200px;
   position: relative;
-  height: 140vh;
+  height: 130vh;
 }
 
 .container {
@@ -245,8 +245,11 @@ body {
 
 /* tablet */
 @media screen and (min-width: 768px) {
+  
   .container {
-    width: 573px;
+    width: 500px;
+    top:50%;
+    height: 120vh;
   }
 
   .searchbar-container {
@@ -340,10 +343,11 @@ body {
 }
 
 /* Desktop */
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1024px) {
   .container {
     width: 730px;
-    margin-top: 90px;
+    left:50%;
+    height: 120vh;
   }
 
   .profile-container {
@@ -373,7 +377,7 @@ body {
   }
   
   body{
-    margin-left: 500px;
+    margin-top: 10%;
   }
   #date {
     padding-top: 10px;
